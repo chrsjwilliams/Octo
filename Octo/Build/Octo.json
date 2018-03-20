@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Octo.data.unityweb",
+"asmCodeUrl": "Octo.asm.code.unityweb",
+"asmMemoryUrl": "Octo.asm.memory.unityweb",
+"asmFrameworkUrl": "Octo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
